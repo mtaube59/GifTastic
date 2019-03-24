@@ -17,6 +17,14 @@ h1 {
 form {
     text-align: center;
 }
+#banner {
+    height: 350px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+body {
+    background-color: #300000;
+}
 /* #add-name {
     float: left;
 }
